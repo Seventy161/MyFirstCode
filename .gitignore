@@ -1,0 +1,6 @@
+# Ignored directories
+.idea/
+out/
+
+# Ignored files
+*.iml
